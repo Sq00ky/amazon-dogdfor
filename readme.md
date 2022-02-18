@@ -11,6 +11,7 @@
   
   ### ANALYZING THE DOGS URL
   because we're greedy, we want all the dogs, so we must look at the url:
+  
   https://images-na.ssl-images-amazon.com/images/G/01/error/12._TTD_.jpg
   
   <img src="https://images-na.ssl-images-amazon.com/images/G/01/error/12._TTD_.jpg">

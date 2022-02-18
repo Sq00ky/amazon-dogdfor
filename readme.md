@@ -4,12 +4,19 @@
   
   ### D.O.G.D.O.R
   "Dropping 
+  
   Organically 
+  
   Grown 
+  
   Dogs 
+  
   From 
+  
   Open 
+  
   Repository" 
+  
         - Varg
         
   ### FINDING THE DOGS

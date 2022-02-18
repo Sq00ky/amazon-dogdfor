@@ -19,11 +19,10 @@
           
   ### FINDING THE DOGS
   to find this vulnerability, i visited a invalid page on amazon
-  <picture 1>
-  as you can see, we see dog! if we do a website hack of viewing the sourcecode (by right clicking inspect element, going to sources, clicking the amazon image cdn we can see the url of one dog pic
+<img src="https://raw.githubusercontent.com/Sq00ky/amazon-dogdfor/main/images/dogdor.png">
+as you can see, we see dog! if we do a website hack of viewing the sourcecode (by right clicking inspect element, going to sources, clicking the amazon image cdn we can see the url of one dog pic
   only one?!?!?! that's not enough!! we want all the dogs!
-  <picture 2>
-  
+<img src="https://raw.githubusercontent.com/Sq00ky/amazon-dogdfor/main/images/code.png">  
   ### ANALYZING THE DOGS URL
   because we're greedy, we want all the dogs, so we must look at the url:
   

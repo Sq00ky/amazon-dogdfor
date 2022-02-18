@@ -17,7 +17,7 @@
   
   Repository" 
   
-        - Varg
+        \- Varg
         
   ### FINDING THE DOGS
   to find this vulnerability, i visited a invalid page on amazon

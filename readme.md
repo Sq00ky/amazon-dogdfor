@@ -2,7 +2,7 @@
   hello everyone!!!
   this is my formal writeup on #amazon #dogdor, aka the vulnerability that shocked the internet that caused a #dataleak on all of amazon's dogs. This repository will contain a full dump of all of amazon's cute dog pictures for your viewing pleasure!!
   
-  ### D.O.G.D.O.R
+  ### D.O.G.D.F.O.R
   "Dropping 
   
   Organically 

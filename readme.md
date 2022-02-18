@@ -12,10 +12,13 @@
   ### ANALYZING THE DOGS URL
   because we're greedy, we want all the dogs, so we must look at the url:
   https://images-na.ssl-images-amazon.com/images/G/01/error/12._TTD_.jpg
+  
   <img src="https://images-na.ssl-images-amazon.com/images/G/01/error/12._TTD_.jpg">
  
  as we see, the URL has a number... 12... What if we change this to 13..?
+ 
   <img src="https://images-na.ssl-images-amazon.com/images/G/01/error/13._TTD_.jpg">
+  
   WE GET A NEW DOG! hello FRANK.
   
   ok good. we can now build our #poc
